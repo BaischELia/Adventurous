@@ -1,0 +1,27 @@
+
+test_pack.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: xy
+idle
+  rotate: false
+  xy: 0, 0
+  size: 512, 39
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 0, 78
+  size: 512, 48
+  orig: 512, 64
+  offset: 0, 15
+  index: -1
+run
+  rotate: false
+  xy: 0, 39
+  size: 512, 39
+  orig: 512, 64
+  offset: 0, 15
+  index: -1

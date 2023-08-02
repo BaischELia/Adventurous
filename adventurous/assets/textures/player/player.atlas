@@ -1,0 +1,41 @@
+
+player.png
+size: 4096, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Fall
+  rotate: false
+  xy: 2, 626
+  size: 2560, 154
+  orig: 2560, 154
+  offset: 0, 0
+  index: -1
+Hit
+  rotate: false
+  xy: 2, 314
+  size: 2048, 154
+  orig: 2048, 154
+  offset: 0, 0
+  index: -1
+Jump
+  rotate: false
+  xy: 2, 470
+  size: 2048, 154
+  orig: 2048, 154
+  offset: 0, 0
+  index: -1
+Stand
+  rotate: false
+  xy: 2, 2
+  size: 2048, 154
+  orig: 2048, 154
+  offset: 0, 0
+  index: -1
+Walk
+  rotate: false
+  xy: 2, 158
+  size: 2048, 154
+  orig: 2048, 154
+  offset: 0, 0
+  index: -1
